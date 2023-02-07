@@ -60,7 +60,6 @@ huobi_swap/request_with_auth_example.js
 
 huobi_option/request_with_auth_example.js
 
-## Happy Testing!
 
 
 
